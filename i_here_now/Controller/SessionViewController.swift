@@ -247,7 +247,8 @@ class SessionViewController: UIViewController {
         
        // let url = URL(string: "https://nickini.com/site/json/15%20In%20the%20clun.mp3")
         
-        let urlFetchParams = UrlFetchParams(key: "74b78d59a4b88efa5f45061818440bf6", lang: Settings.shared.getLanguage(), id:iHereSessionID)
+        let urlFetchParams = UrlFetchParams(key: "74b78d59a4b88efa5f45061818440bf6", lang: "sv"//Settings.shared.getLanguage()
+            , id:iHereSessionID)
         let encoded = try! JSONEncoder().encode(urlFetchParams)
         let params = String(data: encoded, encoding: .utf8)!
         let params2 = params.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)

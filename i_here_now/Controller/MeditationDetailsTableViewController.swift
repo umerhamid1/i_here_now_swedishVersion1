@@ -197,7 +197,8 @@ extension MeditationDetailsTableViewController {
     
     func severCall(){
         //Fetch Data from URL
-        let urlFetchParams = UrlFetchParams(key: "74b78d59a4b88efa5f45061818440bf6", lang: Settings.shared.getLanguage(), id:serieID)
+        let urlFetchParams = UrlFetchParams(key: "74b78d59a4b88efa5f45061818440bf6", lang: "sv"//Settings.shared.getLanguage()
+            , id:serieID)
         let encoded = try! JSONEncoder().encode(urlFetchParams)
         let params = String(data: encoded, encoding: .utf8)!
         let params2 = params.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)
