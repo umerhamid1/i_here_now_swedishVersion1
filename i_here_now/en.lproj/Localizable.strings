@@ -1,0 +1,59 @@
+/* 
+  Localizable.strings
+  i_here_now
+
+  Created by Jimmy Ersson on 2018-10-13.
+  Copyright © 2018 Livheim AB. All rights reserved.
+*/
+
+"Compass" = "Compass";
+"Meditation" = "Meditation";
+"Statistics" = "Statistics";
+
+"seconds" = "seconds";
+"minutes" = "minutes";
+"hours" = "hours";
+"days" = "days";
+
+"Seconds" = "Seconds";
+"Minutes" = "Minutes";
+"Hours" = "Hours";
+"Days" = "Days";
+
+"second" = "second";
+"minute" = "minute";
+"hour" = "hour";
+"day" = "day";
+
+"Life compass" = "Life compass";
+
+"you_have_completed" = "You have completed";
+"of_meditation" = "of meditation";
+
+"Health" = "Health";
+"Comfortable Habits" = "Comfortable Habits";
+"Nutrition and Development" = "Nutrition and Development";
+"Physical Activity" = "Physical Activity";
+
+"Work / Employment" = "Work / Employment";
+"Professional Development" = "Professional Development";
+"Personal Development" = "Personal Development";
+"Working Life" = "Working Life";
+
+"Leisure" = "Leisure";
+"Community Involvement" = "Community Involvement";
+"Own time / Spirituality" = "Own time / Spirituality";
+"Recreational Activities" = "Recreational Activities";
+
+"Relationships" = "Relationships";
+"Loving Relationships" = "Loving Relationships";
+"Friends and Social Life" = "Friends and Social Life";
+"Family Relationships" = "Family Relationships";
+
+"Reminder for your life compass task" = "Reminder for your life compass task";
+
+"Description1Key" = "Fredrik Livheim is a Ph.D., leg. psychologist, writer and researcher. Fredrik has more than 25 years of experience of conscious presence. He is an internationally recognized ACT trainer and co-author of the books Time to Live, The Mindfulness and Acceptance Workbook for Stress Reduction and The Mindful and Effective Employee.";
+
+
+"Description2Key" = "Daniel Ek is leg. psychologist, writer and mindfulness instructor with a long experience of working with stress-related ill health. Daniel holds training courses and groups in ACT for professionals and organizations, with the aim of preventing mental illness and promoting health and well-being. He is co-author of the books Time to Live and The Mindfulness and Acceptance Workbook for Stress Reduction. \n \n Here www.livskompass.se you can read about how you can train yourself as an ACT group leader in four days. \n \n Here www.tidattleva.se you can read more about our Swedish book for stress management. \n \nHere you can do more free courses for mental health and personal development, www.29k.org";
+

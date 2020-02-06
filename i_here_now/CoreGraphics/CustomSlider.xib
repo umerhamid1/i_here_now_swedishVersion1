@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.23.1" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.16.1"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CustomSlideer" customModule="I_Here_Now" customModuleProvider="target">
+            <connections>
+                <outlet property="slider" destination="A9t-aZ-9kV" id="bHS-bf-LIj"/>
+                <outlet property="sliderLabel" destination="uk8-jb-e5e" id="FNq-UK-Nw9"/>
+                <outlet property="sliderLabelBackground" destination="bKd-jb-A0g" id="Bh8-5t-Y4c"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="378" height="150"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bKd-jb-A0g">
+                    <rect key="frame" x="164" y="0.0" width="50" height="50"/>
+                    <color key="backgroundColor" red="0.4941731338" green="0.1873582808" blue="0.97684293990000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="50" id="YTF-Ex-Hm6"/>
+                        <constraint firstAttribute="height" constant="50" id="tV2-bp-uEh"/>
+                    </constraints>
+                </view>
+                <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="A9t-aZ-9kV">
+                    <rect key="frame" x="-2" y="34" width="382" height="31"/>
+                    <color key="thumbTintColor" red="1" green="0.0" blue="0.70662396329999999" alpha="1" colorSpace="calibratedRGB"/>
+                </slider>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uk8-jb-e5e">
+                    <rect key="frame" x="164" y="10" width="50" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <accessibility key="accessibilityConfiguration" identifier="CustomSlider"/>
+            <constraints>
+                <constraint firstItem="A9t-aZ-9kV" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="5Z6-ea-N6y"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="A9t-aZ-9kV" secondAttribute="trailing" id="9t7-hd-8V8"/>
+                <constraint firstItem="bKd-jb-A0g" firstAttribute="centerX" secondItem="A9t-aZ-9kV" secondAttribute="centerX" id="Aex-Sl-x08"/>
+                <constraint firstItem="uk8-jb-e5e" firstAttribute="centerX" secondItem="bKd-jb-A0g" secondAttribute="centerX" id="ECY-27-8VI"/>
+                <constraint firstItem="bKd-jb-A0g" firstAttribute="top" secondItem="uk8-jb-e5e" secondAttribute="bottom" constant="-31" id="cv5-Qa-bAY"/>
+                <constraint firstItem="A9t-aZ-9kV" firstAttribute="bottom" secondItem="bKd-jb-A0g" secondAttribute="bottom" constant="14" id="eir-CE-gv0"/>
+                <constraint firstItem="bKd-jb-A0g" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="rZo-d2-TZt"/>
+                <constraint firstItem="uk8-jb-e5e" firstAttribute="width" secondItem="bKd-jb-A0g" secondAttribute="width" id="rsg-eY-zcM"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <point key="canvasLocation" x="86.400000000000006" y="-363.41829085457272"/>
+        </view>
+    </objects>
+</document>

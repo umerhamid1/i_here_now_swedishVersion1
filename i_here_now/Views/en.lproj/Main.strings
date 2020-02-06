@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Loaded by SecondViewController"; ObjectID = "NDk-cv-Gan"; */
+"NDk-cv-Gan.text" = "Loaded by SecondViewController";
+
+/* Class = "UITabBarItem"; title = "First"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "First";
+
+/* Class = "UITabBarItem"; title = "Second"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Second";
+
+/* Class = "UILabel"; text = "Second View"; ObjectID = "zEq-FU-wV5"; */
+"zEq-FU-wV5.text" = "Second View";
+
+"2sH-ik-DJy.text" = "Meditation time";
+
+
+/* About Us Page */
+
+"amc-PJ-y9B.text" = "About us";
+
+"WMM-cX-3q4.text" = "I Here Now is an app designed to increase the ability to be present consciously. It is made by Psychologist Fredrik Livheim and Professor JoAnne Dahl.";
+
+"tEw-DN-4em.text" = "Fredrik Livheim is a Psychologist and Researcher at Karolinska Institutet in Stockholm for treatment of stress problems. Fredrik has more than 20 years of experience with a \"Conscious Presence\". He is an internationally recognized ACT trainer. Fredrik is a co-author of the book The Mindful and Effective Employee.";
+
+"Dwi-Xk-vtg.text" = "JoAnne Dahl is a Professor of Clinical Psychology at Uppsala University. During her 35 years as an effective psychologist, she has helped develop treatments for asthma, epilepsy, chronic pain and obesity. JoAnne has written several books on ACT (Acceptance and Commitment Therapy). She is an appreciated lecturer and internationally recognized ACT trainer.";
+
+/* Question Information */
+
+"Jh7-kf-Nce.text" = "Using the Life Compass";
+"pjb-2A-oKg.text" = "The Life Compass is displayed into 12 “slices”. All divided into 4 separate sections, representiative of life; Health, Work / Employment, Leisure and Relationships. Each slice has been preconfigured with items, but you can feel free to change them.\n\n To alter or set elements of the Life Compass, “press/tap” on a slice of the compass and you will be displayed with a slider, text field and a “confirmation button labeled \“done\".You may have noticed bell icons showing, in the edit mode you will see bell icons for the slices of the compass.\n\nSelecting a bell icon will highlight it, prompting a dialogue box to appear to select a date and time, along with a “Activate” switch. Setting the date, time and switch will set a reminder to appear at the specified time about that item. You may only have one set at one time. Tapping the bell will disable the reminder.\n\nSliding the slider in edit mode will alter the selected item between 0 and 10. The compass will update in real time which will help you define the compass based on your rating fo each task.";
+
+"Reminder for your life compass task" = "Reminder for your life compass task";
+"iHereNow" = "I Here Now";

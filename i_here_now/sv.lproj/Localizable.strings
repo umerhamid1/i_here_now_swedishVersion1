@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  i_here_now
+
+  Created by Jimmy Ersson on 2018-10-13.
+  Copyright © 2018 Livheim AB. All rights reserved.
+*/
+
+"Compass" = "Livskompass";
+"Meditation" = "Medveten Närvaro";
+"Statistics" = "Statistik";
+
+"seconds" = "sekunder";
+"minutes" = "minuter";
+"hours" = "timmar";
+"days" = "dagar";
+
+"Seconds" = "Sekunder";
+"Minutes" = "Minuter";
+"Hours" = "Timmar";
+"Days" = "Dagar";
+
+"second" = "sekund";
+"minute" = "minut";
+"hour" = "timme";
+"day" = "dag";
+
+"Life compass" = "Livskompass";
+
+"you_have_completed" = "Du har klarat";
+"of_meditation" = "av meditation";
+
+"Health" = "Hälsa";
+"Comfortable Habits" = "Sköna vanor";
+"Nutrition and Development" = "Näring och utveckling";
+"Physical Activity" = "Fysisk aktivitet";
+
+"Work / Employment" = "Arbete/Sysselsättning";
+"Professional Development" = "Professionell utveckling";
+"Personal Development" = "Personlig utveckling";
+"Working Life" = "Arbetsliv";
+
+"Leisure" = "Fritid";
+"Community Involvement" = "Samhällsengagemang";
+"Own time / Spirituality" = "Egen tid / Andlighet";
+"Recreational Activities" = "Fritidsaktiviteter";
+
+"Relationships" = "Relationer";
+"Loving Relationships" = "Kärleksrelationer";
+"Friends and Social Life" = "Vänner och socialt liv";
+"Family Relationships" = "Familjerelationer";
+
+"Reminder for your life compass task" = "Påminnelse för ditt livskompass";
+
+
+"Description1Key" = "Fredrik Livheim är Ph.D, leg. psykolog, författare och forskare. Fredrik har mer än 25 års erfarenhet av medveten närvaro. Han är internationellt erkänd ACT-trainer och medförfattare till böckerna Tid att leva.";
+
+"Description2Key" = "Daniel Ek är leg. psykolog, författare och mindfulnessinstruktör med lång erfarenhet av att arbeta med stressrelaterad ohälsa. Daniel håller utbildningar och grupper i ACT för yrkesverksamma samt organisationer, i syfte att förebygga psykisk ohälsa och främja hälsa och välmående. Han är medförfattare till böckerna Tid att leva och The Mindfulness and Acceptance Workbook for Stress Reduction. \n \n Här www.livskompass.se kan du läsa om hur du själv kan utbilda dig till ACT-gruppledare på fyra dagar. \n Här www.tidattleva.se kan du läsa mer om vår svenska bok för stresshantering. \n Här kan du göra fler gratis kurser för psykisk hälsa och personlig utveckling, www.29k.org ";

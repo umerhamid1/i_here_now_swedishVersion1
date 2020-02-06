@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "EhW-JE-3mV"; */
+"EhW-JE-3mV.normalTitle" = "Klar";
+
+/* Class = "UILabel"; text = "Activated"; ObjectID = "Nmx-Ga-XdR"; */
+"Nmx-Ga-XdR.text" = "Aktiverad";
+
+/* Class = "UILabel"; text = "Reminder"; ObjectID = "Wb4-CL-pWm"; */
+"Wb4-CL-pWm.text" = "Sätt Påminnelse";
