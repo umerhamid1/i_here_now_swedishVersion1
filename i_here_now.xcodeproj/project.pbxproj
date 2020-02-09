@@ -718,6 +718,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_TEAM = B2PNQPWDE8;
 				EXCLUDED_SOURCE_FILE_NAMES = "img-sv.xcassets";
 				INFOPLIST_FILE = "$(SRCROOT)/i_here_now/SharingFile/Info.plist";
@@ -738,6 +739,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_TEAM = B2PNQPWDE8;
 				EXCLUDED_SOURCE_FILE_NAMES = "img-sv.xcassets";
 				INFOPLIST_FILE = "$(SRCROOT)/i_here_now/SharingFile/Info.plist";
@@ -908,6 +910,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_TEAM = B2PNQPWDE8;
 				EXCLUDED_SOURCE_FILE_NAMES = "img-en.xcassets";
 				INFOPLIST_FILE = "$(SRCROOT)/i_here_now/SharingFile/Info.plist";
@@ -1036,6 +1039,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_TEAM = B2PNQPWDE8;
 				EXCLUDED_SOURCE_FILE_NAMES = "img-en.xcassets";
 				INFOPLIST_FILE = "$(SRCROOT)/i_here_now/SharingFile/Info.plist";

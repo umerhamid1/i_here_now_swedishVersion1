@@ -27,9 +27,9 @@
 
 /* Question Information */
 
-"Jh7-kf-Nce.text" = "Så här använder du kompasse";
+"Jh7-kf-Nce.text" = "Så här använder du kompassen";
 
-"pjb-2A-oKg.text" = "Kompasse är uppdelad i 12 bitar och 4 sektioner som representerar: Hälsa, Arbete/Sysselsättning, Fritid, Relationer. Varje bit har en förinställd text men du kan byta ut den.\n\nKlicka på en bit av kompassen för att komma in i redigeringsläge. Klicka sedan på textrutan för att skriva in en egen text. Texten sparas automatisk. När du är färdig så kan du avsluta redigeringsläget genom att klicka på klar.\n\nÄndra värdet på en bit. Dra i slidern för att ändra värde. Du kan sätta ett värde från 0 till 10. Värdet sparas automatiskt.\n\nDu kan sätta en påminnelse för en av bitarna i taget. Klicka på en av bitarna och sedan på bjällran. Sätt en önskad tid och klicka sedan på klar.";
+"pjb-2A-oKg.text" = "Kompassen är uppdelad i 12 bitar och 4 sektioner som representerar: Hälsa, Arbete/Sysselsättning, Fritid, Relationer. Varje bit har en förinställd text men du kan byta ut den.\n\nKlicka på en bit av kompassen för att komma in i redigeringsläge. Klicka sedan på textrutan för att skriva in en egen text. Texten sparas automatisk. När du är färdig så kan du avsluta redigeringsläget genom att klicka på klar.\n\nÄndra värdet på en bit. Dra i slidern för att ändra värde. Du kan sätta ett värde från 0 till 10. Värdet sparas automatiskt.\n\nDu kan sätta en påminnelse för en av bitarna i taget. Klicka på en av bitarna och sedan på bjällran. Sätt en önskad tid och klicka sedan på klar.";
 
 
 "Reminder for your life compass task" = "Påminelse för ditt Livskompass";
